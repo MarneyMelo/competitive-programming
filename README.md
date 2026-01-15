@@ -3,7 +3,7 @@
 Repository for my **Codeforces** problem solutions and study algorithms.
 
 ## My Stats
-[![Marney's Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=marney&v=6)
+[![Marney's Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=marney&theme=dark&v=6)
 
 ## Structure
 
